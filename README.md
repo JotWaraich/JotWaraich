@@ -7,8 +7,8 @@ I’m Gurjagjot, a software developer passionate about creating scalable and eff
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [JK Convenience](https://github.com/JotWaraich/JK-Convenience), an eCommerce platform.
-- 🌱 I’m learning advanced features of Next.js and cloud deployment strategies.
+- 🔭 I’m currently working on [Task Manager]([https://github.com/JotWaraich/JK-Convenience](https://github.com/JotWaraich/Task-Manager)), Simple Task Manager.
+- 🌱 I’m learning advanced features of Azure and cloud deployment strategies.
 - 👯 I’m looking to collaborate on innovative open-source projects.
 - 🤔 I’m interested in exploring the intersections of AI and web development.
 - 💬 Ask me about full-stack development, cloud technologies, or anything tech-related!
@@ -68,8 +68,7 @@ A web app that displays discounts on video games from various online retailers.
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/gurjagjot-waraich)
-- [GitHub](https://github.com/JotWaraich)
-- Email: gurjagjot12@hotmail.com
+- [Email](gurjagjot12@hotmail.com): gurjagjot12@hotmail.com
 
 ---
 
