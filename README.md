@@ -7,7 +7,7 @@ I’m Gurjagjot, a software developer passionate about creating scalable and eff
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Task Manager]([https://github.com/JotWaraich/JK-Convenience](https://github.com/JotWaraich/Task-Manager)), Simple Task Manager.
+- 🔭 I’m currently working on [Task Manager](https://github.com/JotWaraich/Task-Manager), Simple Task Manager.
 - 🌱 I’m learning advanced features of Azure and cloud deployment strategies.
 - 👯 I’m looking to collaborate on innovative open-source projects.
 - 🤔 I’m interested in exploring the intersections of AI and web development.
