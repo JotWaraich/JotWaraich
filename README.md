@@ -7,7 +7,7 @@ I’m Gurjagjot, a software developer passionate about creating scalable and eff
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Task Manager](https://github.com/JotWaraich/Task-Manager), Simple Task Manager.
+- 🔭 I’m currently working on [File Manager](https://github.com/JotWaraich/file-manager), A file manager for windows.
 - 🌱 I’m learning advanced features of Azure and cloud deployment strategies.
 - 👯 I’m looking to collaborate on innovative open-source projects.
 - 🤔 I’m interested in exploring the intersections of AI and web development.
@@ -56,6 +56,15 @@ I’m Gurjagjot, a software developer passionate about creating scalable and eff
 ---
 
 ## 🧑‍💻 Projects
+
+### [📋 C-QT-Todo](https://github.com/JotWaraich/C-QT-Todo)
+A C++ to-do application built with the Qt framework.
+
+### [🗂️ File Manager](https://github.com/JotWaraich/file-manager)
+A file manager for Windows developed in Python using the PyQt5 framework.
+
+### [✍️ Simple Markdown Editor](https://github.com/JotWaraich/Simple-Markdown-Editor)
+A Markdown file editor was created in Python.
 
 ### [📂 File Sorting Application](https://github.com/JotWaraich/File-Sorting)
 A Python application that automates file sorting by type and extension.
