@@ -57,11 +57,14 @@ I’m Gurjagjot, a software developer passionate about creating scalable and eff
 
 ## 🧑‍💻 Projects
 
-### [📋 C-QT-Todo](https://github.com/JotWaraich/C-QT-Todo)
-A C++ to-do application built with the Qt framework.
-
 ### [🗂️ File Manager](https://github.com/JotWaraich/file-manager)
 A file manager for Windows developed in Python using the PyQt5 framework.
+
+### [ 🥗 EatSmart](https://github.com/JotWaraich/EatSmart)
+A Flutter app designed to help users make informed food choices by scanning product barcodes and providing nutritional information
+
+### [📋 C-QT-Todo](https://github.com/JotWaraich/C-QT-Todo)
+A C++ to-do application built with the Qt framework.
 
 ### [✍️ Simple Markdown Editor](https://github.com/JotWaraich/Simple-Markdown-Editor)
 A Markdown file editor was created in Python.
