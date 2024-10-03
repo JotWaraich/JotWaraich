@@ -7,7 +7,7 @@ I’m Gurjagjot, a software developer passionate about creating scalable and eff
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [File Manager](https://github.com/JotWaraich/file-manager), A file manager for windows.
+- 🔭 I’m currently working on [🥗 EatSmart](https://github.com/JotWaraich/EatSmart), Food Information App.
 - 🌱 I’m learning advanced features of Azure and cloud deployment strategies.
 - 👯 I’m looking to collaborate on innovative open-source projects.
 - 🤔 I’m interested in exploring the intersections of AI and web development.
@@ -60,7 +60,7 @@ I’m Gurjagjot, a software developer passionate about creating scalable and eff
 ### [🗂️ File Manager](https://github.com/JotWaraich/file-manager)
 A file manager for Windows developed in Python using the PyQt5 framework.
 
-### [ 🥗 EatSmart](https://github.com/JotWaraich/EatSmart)
+### [🥗 EatSmart](https://github.com/JotWaraich/EatSmart)
 A Flutter app designed to help users make informed food choices by scanning product barcodes and providing nutritional information
 
 ### [📋 C-QT-Todo](https://github.com/JotWaraich/C-QT-Todo)
