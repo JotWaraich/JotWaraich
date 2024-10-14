@@ -24,6 +24,7 @@ I’m Gurjagjot, a software developer passionate about creating scalable and eff
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 **Frameworks/Libraries:**  
 ![.NET](https://img.shields.io/badge/-dotNET-512BD4?style=flat&logo=.net&logoColor=white)
