@@ -7,7 +7,7 @@ I’m Gurjagjot, a software developer passionate about creating scalable and eff
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [EatSmart](https://github.com/JotWaraich/EatSmart), Food Information App.
+- 🔭  I’m currently working on [GoShell](https://github.com/JotWaraich/GoShell), a lightweight shell implemented in Go that supports basic file system operations and the execution of external commands.
 - 🌱 I’m learning advanced features of Azure and cloud deployment strategies.
 - 👯 I’m looking to collaborate on innovative open-source projects.
 - 🤔 I’m interested in exploring the intersections of AI and web development.
@@ -63,6 +63,9 @@ A file manager for Windows developed in Python using the PyQt5 framework.
 
 ### [🥗 EatSmart](https://github.com/JotWaraich/EatSmart)
 A Flutter app designed to help users make informed food choices by scanning product barcodes and providing nutritional information
+
+### [🖥️ GoShell](https://github.com/JotWaraich/GoShell)
+A lightweight shell implemented in Go that supports basic file system operations and the execution of external commands.
 
 ### [📋 C-QT-Todo](https://github.com/JotWaraich/C-QT-Todo)
 A C++ to-do application built with the Qt framework.
