@@ -50,11 +50,12 @@ I’m Gurjagjot, a software developer passionate about creating scalable and eff
 
 ---
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 ![Gurjagjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotWaraich&show_icons=true&theme=radical)
 
 ---
+-->
 
 ## 🧑‍💻 Projects
 
