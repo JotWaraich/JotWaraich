@@ -7,7 +7,7 @@ I’m Gurjagjot, a software developer passionate about creating scalable and eff
 
 ## 🚀 About Me
 
-- 🔭  I’m currently working on [GoShell](https://github.com/JotWaraich/GoShell), a lightweight shell implemented in Go that supports basic file system operations and the execution of external commands.
+- 🔭  I’m currently working on [ProMag](https://github.com/JotWaraich/ProMag), a web-based project management tool inspired by Trello. It features Kanban boards, calendar and Gantt views, and aims to streamline task tracking and team collaboration with a sleek and intuitive interface.
 - 🌱 I’m learning advanced features of Azure and cloud deployment strategies.
 - 👯 I’m looking to collaborate on innovative open-source projects.
 - 🤔 I’m interested in exploring the intersections of AI and web development.
